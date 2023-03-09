@@ -1,0 +1,710 @@
+2023-02-26 15:02:55,595 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:55,596 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:55,705 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:55,705 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:55,816 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:55,817 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:55,991 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:55,991 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:56,466 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:56,466 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:57,169 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:57,170 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:58,144 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:58,145 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:02:59,356 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:02:59,356 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:00,197 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:00,198 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:01,098 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:01,099 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:02,122 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:02,123 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:03,012 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:03,013 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:03,973 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:03,974 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:05,186 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:05,187 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:06,308 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:06,309 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:07,207 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:07,208 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:08,418 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:08,418 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:09,573 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:09,574 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:10,434 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:10,435 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:03:11,298 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:775] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node -1 (localhost/127.0.0.1:9092) could not be established. Broker may not be available.
+2023-02-26 15:03:11,299 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:1065] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Bootstrap broker localhost:9092 (id: -1 rack: null) disconnected
+2023-02-26 15:06:05,767 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/login] Deprecated unwrapped fragment expression "index::header" found in template /site/login, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:16,126 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:16,132 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:17,027 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:17,054 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:19,210 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:19,219 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:21,142 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:06:21,150 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:11:33,554 WARN [http-nio-8888-exec-9] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-9][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:11:33,564 WARN [http-nio-8888-exec-9] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-9][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:11:46,536 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:11:46,543 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:17:44,561 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:17:44,618 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:17:47,538 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:17:47,545 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:17:48,693 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:17:48,703 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:21:30,725 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:22:01,464 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/login] Deprecated unwrapped fragment expression "index::header" found in template /site/login, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:22:02,830 WARN [http-nio-8888-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:22:02,841 WARN [http-nio-8888-exec-7] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-7][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:22:09,062 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/login] Deprecated unwrapped fragment expression "index::header" found in template /site/login, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:22:20,036 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:22:20,040 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:22:20,997 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:23:37,936 WARN [http-nio-8888-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:23:37,937 WARN [http-nio-8888-exec-6] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.bind.MissingRequestCookieException: Required cookie 'kaptchaOwner' for method parameter type String is not present]
+2023-02-26 15:23:54,050 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/login] Deprecated unwrapped fragment expression "index::header" found in template /site/login, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:24:08,247 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/register] Deprecated unwrapped fragment expression "index::header" found in template /site/register, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:24:27,804 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/register] Deprecated unwrapped fragment expression "index::header" found in template /site/register, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:24:39,414 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/operate-result] Deprecated unwrapped fragment expression "index::header" found in template /site/operate-result, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:25:40,315 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/operate-result] Deprecated unwrapped fragment expression "index::header" found in template /site/operate-result, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:25:41,855 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][/site/login] Deprecated unwrapped fragment expression "index::header" found in template /site/login, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:25:48,015 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/discuss-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/discuss-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:25:48,020 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/discuss-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/discuss-detail, line 205, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:25:50,598 WARN [http-nio-8888-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:25:50,598 WARN [http-nio-8888-exec-3] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:25:53,480 WARN [http-nio-8888-exec-7] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:25:53,480 WARN [http-nio-8888-exec-7] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:26:00,955 WARN [http-nio-8888-exec-3] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:26:00,955 WARN [http-nio-8888-exec-3] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:26:11,176 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/discuss-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/discuss-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:26:11,180 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/discuss-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/discuss-detail, line 205, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:26:12,025 WARN [http-nio-8888-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:26:12,025 WARN [http-nio-8888-exec-6] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:26:34,501 WARN [http-nio-8888-exec-1] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:26:34,502 WARN [http-nio-8888-exec-1] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:27:00,541 WARN [http-nio-8888-exec-6] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:27:00,542 WARN [http-nio-8888-exec-6] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:27:16,558 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:27:19,443 WARN [http-nio-8888-exec-10] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:27:19,443 WARN [http-nio-8888-exec-10] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "my-post.html"]
+2023-02-26 15:27:27,041 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:27:28,058 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:27:30,149 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:23,610 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:23,654 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:24,548 WARN [http-nio-8888-exec-7] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-7][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:42,666 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:43,465 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:43,863 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:44,119 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:28:51,911 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:02,565 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:04,533 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/discuss-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/discuss-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:04,545 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/discuss-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/discuss-detail, line 205, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:05,243 WARN [http-nio-8888-exec-9] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:29:05,245 WARN [http-nio-8888-exec-9] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:29:06,734 WARN [http-nio-8888-exec-2] o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [ExceptionHandlerExceptionResolver.java:419] Failure in @ExceptionHandler com.campus.community.controller.advice.ExceptionAdvice#handleException(Exception, HttpServletRequest, HttpServletResponse)
+java.lang.IllegalStateException: Could not resolve parameter [1] in public void com.campus.community.controller.advice.ExceptionAdvice.handleException(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException: No suitable resolver
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:178)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:148)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:413)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:74)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1340)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1151)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1097)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:705)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:859)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1734)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-02-26 15:29:06,734 WARN [http-nio-8888-exec-2] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "profile.html"]
+2023-02-26 15:29:16,473 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:45,212 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/notice-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/notice-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:45,215 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/notice-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/notice-detail, line 110, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:47,902 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:48,788 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/notice-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/notice-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:48,791 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/notice-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/notice-detail, line 110, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:51,266 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:53,437 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:59,517 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/notice-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:29:59,519 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/notice-detail, line 110, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:32:12,196 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/notice-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/notice-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:32:12,198 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/notice-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/notice-detail, line 110, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:32:33,003 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/notice-detail] Deprecated unwrapped fragment expression "index::header" found in template /site/notice-detail, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:32:33,005 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/notice-detail] Deprecated unwrapped fragment expression "index::pagination" found in template /site/notice-detail, line 110, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:32:36,957 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:13,051 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:17,897 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/profile] Deprecated unwrapped fragment expression "index::header" found in template /site/profile, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:25,444 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:25,448 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:27,115 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:27,138 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:36,279 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:36,844 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:37,276 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:40,839 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:40,842 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:42,340 WARN [http-nio-8888-exec-7] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-7][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:42,968 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:42,970 WARN [http-nio-8888-exec-4] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-4][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:44,129 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:44,131 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:44,688 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:44,690 WARN [http-nio-8888-exec-3] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-3][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:46,201 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:56,885 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:56,886 WARN [http-nio-8888-exec-6] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-6][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:37:59,823 WARN [http-nio-8888-exec-2] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-2][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:39,899 WARN [http-nio-8888-exec-1] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-1][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:45,868 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:45,875 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:47,094 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:47,097 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:47,576 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:47,594 WARN [http-nio-8888-exec-10] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-10][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:50,885 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/letter] Deprecated unwrapped fragment expression "index::header" found in template /site/letter, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:50,887 WARN [http-nio-8888-exec-8] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-8][/site/letter] Deprecated unwrapped fragment expression "index::pagination" found in template /site/letter, line 146, col 23. Please use the complete syntax of fragment expressions instead ("~{index::pagination}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:51,507 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][/site/notice] Deprecated unwrapped fragment expression "index::header" found in template /site/notice, line 15, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
+2023-02-26 15:38:51,515 WARN [http-nio-8888-exec-5] o.t.s.p.AbstractStandardFragmentInsertionTagProcessor [AbstractStandardFragmentInsertionTagProcessor.java:385] [THYMELEAF][http-nio-8888-exec-5][error/500] Deprecated unwrapped fragment expression "index::header" found in template error/500, line 14, col 38. Please use the complete syntax of fragment expressions instead ("~{index::header}"). The old, unwrapped syntax for fragment expressions will be removed in future versions of Thymeleaf.
